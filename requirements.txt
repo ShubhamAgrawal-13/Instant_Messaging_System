@@ -1,0 +1,5 @@
+## Install packages
+kafka-python
+kafka
+mongo or mysql
+sudo apt install sox
